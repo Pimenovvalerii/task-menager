@@ -1,0 +1,14 @@
+export const CHANG_DATA = 'DATA/CHANG_DATA';
+export const SET_DATA = 'DATA/SET_DATA';
+export const INIT_DATA = 'DATA/INIT_DATA';
+
+// export const ADD_TASK = 'DATA/ADD_TASK';
+// export const ADD_TASK_SAGA = 'DATA/ADD_TASK_SAGA';
+// export const FETCH_DATA_UNMAUNT = 'DATA/FETCH_DATA_UNMAUNT';
+// export const FETCH_DATA = 'DATA/FETCH_DATA';
+
+// export const CHANGE_TASK = 'DATA/CHANGE_TASK';
+// export const DELETE_TASK = 'DATA/DELETE_TASK';
+// export const DELETE_TASK_SAGA = 'DATA/DELETE_TASK_SAGA';
+// export const CHANGE_TASK_DnD_DATA = 'DATA/CHANGE_TASK_DnD_DATA';
+// export const CHANGE_TASK_DnD_TODAYDATA = 'DATA/CHANGE_TASK_DnD_TODAYDATA';
